@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Calc1Test" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-11-12T20:47:02" hostname="HOME-PC" time="0.054">
+  <properties/>
+  <testcase name="GetDivide()" classname="Calc1Test" time="0.045"/>
+  <testcase name="GetMultiple()" classname="Calc1Test" time="0.003"/>
+  <testcase name="GetSum()" classname="Calc1Test" time="0.002"/>
+  <system-out><![CDATA[test started
+test completed
+test started
+test completed
+test started
+test completed
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
